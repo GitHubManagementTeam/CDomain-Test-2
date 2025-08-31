@@ -1,10 +1,10 @@
 {
   "pages": [
     {
-      "title": "About Me",
+      "title": "Test",
       "description": "Learn more about who I am and my background.",
       "image": "https://github.com/TurboWarp/extensions/raw/refs/heads/master/images/Skyhigh173/json.svg",
-      "link": "about.html"
+      "link": "/test"
     },
     {
       "title": "Projects",
