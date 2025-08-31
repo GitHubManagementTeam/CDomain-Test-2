@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My Personal Homepage</title>
+  <title>Home</title>
   <script defer src="script.js"></script>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
@@ -71,7 +71,7 @@
 
   <script>
     // Load data from external JSON file
-    fetch('https://raw.githubusercontent.com/GitHubManagementTeam/CDomain-Test-2/refs/heads/main/pages.json')
+    fetch('pages.json')
       .then(response => response.json())
       .then(data => {
         const container = document.getElementById('card-container');
