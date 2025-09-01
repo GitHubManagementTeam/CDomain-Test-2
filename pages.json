@@ -1,22 +1,20 @@
-{
-  "pages": [
-    {
-      "title": "Test",
-      "description": "Learn more about who I am and my background.",
-      "image": "https://github.com/TurboWarp/extensions/raw/refs/heads/master/images/Skyhigh173/json.svg",
-      "link": "/test"
-    },
-    {
-      "title": "Projects",
-      "description": "Explore my recent work and personal projects.",
-      "image": "images/projects.jpg",
-      "link": "projects.html"
-    },
-    {
-      "title": "Contact",
-      "description": "Get in touch with me through this page.",
-      "image": "images/contact.jpg",
-      "link": "contact.html"
-    }
-  ]
-}
+[
+  {
+    "title": "Test",
+    "description": "Learn more about who I am and my background.",
+    "image": "https://github.com/TurboWarp/extensions/raw/refs/heads/master/images/Skyhigh173/json.svg",
+    "link": "/test"
+  },
+  {
+    "title": "Projects",
+    "description": "Explore my recent work and personal projects.",
+    "image": "images/projects.jpg",
+    "link": "projects.html"
+  },
+  {
+    "title": "Contact",
+    "description": "Get in touch with me through this page.",
+    "image": "images/contact.jpg",
+    "link": "contact.html"
+  }
+]
