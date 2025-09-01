@@ -1,26 +1,22 @@
-[
-  {
-    "title": "Blog",
-    "description": "Read my latest thoughts and updates.",
-    "url": "https://yourdomain.com/blog",
-    "image": "https://github.com/TurboWarp/extensions/raw/refs/heads/master/images/Skyhigh173/json.svg"
-  },
-  {
-    "title": "Portfolio",
-    "description": "See my work and projects.",
-    "url": "https://yourdomain.com/portfolio",
-    "image": "https://yourdomain.com/assets/portfolio-preview.jpg"
-  },
-  {
-    "title": "Contact",
-    "description": "Get in touch with me.",
-    "url": "https://yourdomain.com/contact",
-    "image": "https://yourdomain.com/assets/contact-preview.jpg"
-  },
-  {
-    "title": "About Me",
-    "description": "Learn more about my background and experience.",
-    "url": "https://yourdomain.com/about",
-    "image": "https://yourdomain.com/assets/about-preview.jpg"
-  }
-]
+{
+  "pages": [
+    {
+      "title": "Test",
+      "description": "Learn more about who I am and my background.",
+      "image": "https://github.com/TurboWarp/extensions/raw/refs/heads/master/images/Skyhigh173/json.svg",
+      "link": "/test"
+    },
+    {
+      "title": "Projects",
+      "description": "Explore my recent work and personal projects.",
+      "image": "images/projects.jpg",
+      "link": "projects.html"
+    },
+    {
+      "title": "Contact",
+      "description": "Get in touch with me through this page.",
+      "image": "images/contact.jpg",
+      "link": "contact.html"
+    }
+  ]
+}
